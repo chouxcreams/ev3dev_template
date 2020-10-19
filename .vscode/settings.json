@@ -1,0 +1,13 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+	"files.eol": "\n",
+	"debug.openDebug": "neverOpen",
+	"python.linting.enabled": false,
+    "python.languageServer": "Microsoft",
+    "python.pythonPath": "${workspaceFolder}/.venv/bin/python",
+    "python.linting.flake8Enabled": true,
+    "python.linting.pylintEnabled": false,
+    "cSpell.words": [
+        "pybricks"
+    ]
+}
